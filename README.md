@@ -52,7 +52,7 @@ The entire application runs with a single command using FastAPI endpoints.
 The application fetches data from the database, runs scripts, and provides a user interface through an HTML page for interaction.  
 ## Additional Information
 The application includes scripts for performing different tas holing all by FastAPI and there are database integration, exception handling, validations, logging, 
-PDF structured data extraction using Tabula,and web scraping using BeautifulSoup. for all flow I passed comments so that one can undersatand easily.
+PDF structured data extraction using Tabula,and web scraping using BeautifulSoup. for all flow I passed comments so that one can understand easily.
 
 For any questions or issues, please contact:
 
