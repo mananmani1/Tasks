@@ -55,6 +55,8 @@ The application includes scripts for performing different tas holing all by Fast
 PDF structured data extraction using Tabula,and web scraping using BeautifulSoup. for all flow I passed comments so that one can undersatand easily.
 
 For any questions or issues, please contact:
+
 Abdul Manan
 ML Engineer
+
 Email: mananmani5577@gmail.com
