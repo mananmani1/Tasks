@@ -5,7 +5,6 @@ from sqlalchemy.orm import Session
 from fastapi import FastAPI
 from database.schemas import *
 
-app = FastAPI()
 class ConversationRoutes():
    """Inherits from Routable."""
 
