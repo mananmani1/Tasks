@@ -6,10 +6,6 @@ from fastapi import FastAPI
 from database.schemas import *
 
 class ConversationRoutes():
-   """Inherits from Routable."""
-
-   def __init__(self) -> None:
-       super().__init__()
 
    def get_db(self):
        db = SessionLocal()
